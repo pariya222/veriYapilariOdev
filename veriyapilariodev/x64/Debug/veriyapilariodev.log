@@ -1,0 +1,51 @@
+﻿  veriyapilariodev.cpp
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(17,18): error C2146: syntax error: missing ')' before identifier 'row'
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(17,31): error C2146: syntax error: missing ';' before identifier 'col'
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(17,22): warning C4552: '>=': result of expression not used
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(17,40): error C2146: syntax error: missing ';' before identifier 'col'
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(17,35): warning C4552: '<': result of expression not used
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(17,53): error C2146: syntax error: missing ';' before identifier 'grid'
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(17,44): warning C4552: '>=': result of expression not used
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(17,74): error C2059: syntax error: ')'
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(19,9): error C2059: syntax error: 'return'
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(23,10): error C2065: 'row': undeclared identifier
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(23,15): error C2065: 'col': undeclared identifier
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(23,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(23,20): error C2440: 'initializing': cannot convert from 'char' to 'int [0][0]'
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(26,5): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(26,9): error C3484: syntax error: expected '->' before the return type
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(26,10): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(26,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(26,10): error C2146: syntax error: missing ';' before identifier 'push_back'
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(26,20): error C2143: syntax error: missing ';' before '{'
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(26,20): error C2143: syntax error: missing ')' before ';'
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(26,20): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(26,31): error C2059: syntax error: ')'
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(29,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(29,5): error C2365: 'dfs': redefinition; previous definition was 'function'
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(29,15): error C2065: 'rows': undeclared identifier
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(29,21): error C2065: 'cols': undeclared identifier
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(29,27): error C2065: 'row': undeclared identifier
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(29,36): error C2065: 'col': undeclared identifier
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(30,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(30,5): error C2365: 'dfs': redefinition; previous definition was 'function'
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(30,15): error C2065: 'rows': undeclared identifier
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(30,21): error C2065: 'cols': undeclared identifier
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(30,27): error C2065: 'row': undeclared identifier
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(30,36): error C2065: 'col': undeclared identifier
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(31,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(31,5): error C2365: 'dfs': redefinition; previous definition was 'function'
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(31,15): error C2065: 'rows': undeclared identifier
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(31,21): error C2065: 'cols': undeclared identifier
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(31,27): error C2065: 'row': undeclared identifier
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(31,32): error C2065: 'col': undeclared identifier
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(32,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(32,5): error C2365: 'dfs': redefinition; previous definition was 'function'
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(32,15): error C2065: 'rows': undeclared identifier
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(32,21): error C2065: 'cols': undeclared identifier
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(32,27): error C2065: 'row': undeclared identifier
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(32,32): error C2065: 'col': undeclared identifier
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(33,1): error C2059: syntax error: '}'
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(33,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(36,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\USER\source\repos\veriyapilariodev\veriyapilariodev\veriyapilariodev.cpp(36,1): error C2447: '{': missing function header (old-style formal list?)
